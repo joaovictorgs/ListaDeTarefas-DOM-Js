@@ -181,13 +181,23 @@ body {
 .list-wrapper ul li {
     display: flex !important
 }
+
+/* Style the close button */
 .close {
-    position: absolute;
-    right: 45px;
-    padding: 3px 4px 3px 4px; 
-  }
-  
-  .close:hover{
-      background-color:#0000ff ;
-      color: white;
-  }
+  position: absolute;
+  right: 45px;
+  padding: 3px 4px 3px 4px; 
+}
+
+.close:hover {
+  background-color: #0f88ff;
+  color: white;
+}
+
+.lista_atividades{
+    margin-left: 2%;
+}
+
+.tarefa_concluida{
+    text-decoration: line-through;
+}
