@@ -18,9 +18,10 @@ Projeto didático para Javascript(DOM) para turma de desenvolvimento de sistemas
     2. Como utilizar
         Após abrir o arquivo "index.html" escreva uma atividade na caixa de texto;
         após isso clique no botão a direita da caixa de texto para adicionar a tarefa na lista;
-        Após isso é possivel marcar a tarefa como realizada pela checkbox a esquerda da atividade ou remover a atividade pelo
-        icone de "x" a direita da tarefa;
+        Após isso é possivel marcar a tarefa como realizada pela checkbox a esquerda da atividade ou remover a
+        atividade pelo icone de "x" a direita da tarefa;
 
     3. Observações finais
-        Ao recarregar a página, por não haver um banco de dados ou um servidor, as alterações feitas na lista desaparecem;  
+        Ao recarregar a página, por não haver um banco de dados ou um servidor, as alterações feitas na lista
+        desaparecem;  
                 
